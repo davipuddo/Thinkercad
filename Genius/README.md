@@ -1,2 +1,2 @@
-# Jogo Genius feito em arduino a partir do Thinkercad
-[![a](Genius.png)](https://www.tinkercad.com/things/0HXkkjuCPFV-genius)
+# Genius game made in Tinkercad based in arduino.
+<a href="https://www.tinkercad.com/things/0HXkkjuCPFV-genius"><img src="Genius.png"><a>
